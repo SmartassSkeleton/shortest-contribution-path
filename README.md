@@ -1,6 +1,6 @@
 # shortest-contribution-path
 
-Run automatically: 
+Run with Docker: 
 ```
 sudo docker build -t repo/myapp .
 sudo docker run -d repo/myapp:latest
